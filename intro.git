@@ -1,0 +1,20 @@
+This is an introductory to Git And GitHub 
+What is Git?
+Git is Control Version system which is used for collaborating code, it is a popular version control system
+It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then
+it is used for:-
+a. Tracking code changes
+b.Tracking who made changes
+c.Coding collaboration
+
+KEY GIT CONCEPTS
+1.git configuration
+2.git initializing
+3.git repository
+4.git clone
+5.git stage
+6. git commit
+7.git branch
+8.git merge
+9.git pull
+10.git push
